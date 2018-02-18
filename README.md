@@ -1,5 +1,5 @@
 # GraphQL Initiation Server                                 
-Server which offers endpoints for GraphQL queries from [frontend(https://github.com/WellCosta/graphql-initiation-app)
+Server which offers endpoints for GraphQL queries from [frontend](https://github.com/WellCosta/graphql-initiation-app)
 
 ### Resources
 Running the server through Application main class starts:
