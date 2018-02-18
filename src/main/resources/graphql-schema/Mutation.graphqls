@@ -1,0 +1,5 @@
+type Mutation { 
+	createArticle(title: String!, subtitle: String!) : Article!
+	
+	updateArticle(id:Int!, title: String!, subtitle: String!) : Article! 
+}

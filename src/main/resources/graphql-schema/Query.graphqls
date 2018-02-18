@@ -1,0 +1,5 @@
+type Query {
+    articles: [Article]!
+    topics: [Topic]!
+    topicsLike (query:String!): [Topic]!
+}
